@@ -1,0 +1,58 @@
+{
+	"name": "Cinnamoroll",
+	"author": "YuhMuva#1799",
+	"version": "4.2.0",
+	"description": "A theme dedicated to Cinnamoroll!()And Femboys)]",
+	"authors": [ 
+		{
+			"name": "YuhMuva",
+			"id": "359111312418275349"
+		}
+	],
+	"background": {
+		"blur": "1",
+		"url": "https://wallpapers-clan.com/wp-content/uploads/2022/11/cinnamoroll-light-blue-pattern-background-scaled.jpg",
+		"alpha": "0.69"
+	},
+	"theme_color_map": {
+		"KEYBOARD": ["#DDF0F7", "#DDF0F7"],
+		"BACKGROUND_PRIMARY": ["#EAE6F1", "#EAE6F1"],
+		"BACKGROUND_SECONDARY": ["#DDF0F7", "#DDF0F7"],
+		"BACKGROUND_SECONDARY_ALT": ["#DDF0F7", "#DDF0F7"],
+		"BACKGROUND_TERTIARY": ["#DDF0F7", "#DDF0F7"],
+		"BACKGROUND_ACCENT": ["#B3C9DC", "#B3C9DC"],
+		"BACKGROUND_FLOATING": ["#DDF0F7", "#DDF0F7"],
+		"BACKGROUND_NESTED_FLOATING": ["#DDF0F7", "#DDF0F7"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#DDF0F7", "#DDF0F7"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#EDF1E3", "#EDF1E3"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#C4D7E5", "#C4D7E5"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#ECF8FA", "#ECF8FA"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#EAE6F1", "#EAE6F1"],
+		"CHANNELS_DEFAULT": ["#DDF0F7", "#DDF0F7"],
+		"HEADER_PRIMARY": ["#EAE6F1", "#EAE6F1"],
+		"HEADER_SECONDARY": ["#EDF1E3", "#EDF1E3"],
+		"INTERACTIVE_ACTIVE": ["#EDF1E3", "#EDF1E3"],
+		"INTERACTIVE_MUTED": ["#EAE6F1", "#EAE6F1"],
+		"INTERACTIVE_NORMAL": ["#EAE6F1", "#EAE6F1"],
+		"TEXT_LINK": ["#EAE6F1", "#EAE6F1"],
+		"TEXT_MUTED": ["#EAE6F1", "#EAE6F1"],
+		"TEXT_NORMAL": ["#EAE6F1", "#EAE6F1"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#EAE6F1",
+		"PRIMARY_DARK_100": "#B3C9DC",
+		"PRIMARY_DARK_300": "#EAE6F1",
+		"PRIMARY_DARK_360": "#B3C9DC",
+		"PRIMARY_DARK_400": "#B3C9DC",
+		"PRIMARY_DARK_500": "#B3C9DC",
+		"PRIMARY_DARK_600": "#B3C9DC",
+		"PRIMARY_DARK_630": "#B3C9DC",
+		"PRIMARY_DARK_700": "#B3C9DC",
+		"PRIMARY_DARK_800": "#B3C9DC",
+		"BRAND_NEW": "#EAE6F1",
+		"WHITE": "#EAE6F1"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#EAE6F1"
+	}
+}
