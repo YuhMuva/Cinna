@@ -10,13 +10,13 @@
 		}
 	],
 	"background": {
-		"blur": "1",
+		"blur": "2",
 		"url": "https://wallpapers-clan.com/wp-content/uploads/2022/11/cinnamoroll-light-blue-pattern-background-scaled.jpg",
 		"alpha": "0.69"
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#C4D7E5", "#C4D7E5"],
-		"BACKGROUND_PRIMARY": ["#EAE6F1", "#EAE6F1"],
+		"BACKGROUND_PRIMARY": ["#DDF0F7", "#DDF0F7"],
 		"BACKGROUND_SECONDARY": ["#DDF0F7", "#DDF0F7"],
 		"BACKGROUND_SECONDARY_ALT": ["#DDF0F7", "#DDF0F7"],
 		"BACKGROUND_TERTIARY": ["#DDF0F7", "#DDF0F7"],
@@ -35,8 +35,8 @@
 		"INTERACTIVE_MUTED": ["#EAE6F1", "#EAE6F1"],
 		"INTERACTIVE_NORMAL": ["#EAE6F1", "#EAE6F1"],
 		"TEXT_LINK": ["#B3C9DC", "#B3C9DC"],
-		"TEXT_MUTED": ["#F7A1C4", "#F7A1C4"],
-		"TEXT_NORMAL": ["#F7A1C4", "#F7A1C4"]
+		"TEXT_MUTED": ["#dedbb8", "#dedbb8"],
+		"TEXT_NORMAL": ["#dedbb8", "#dedbb8"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#EAE6F1",
