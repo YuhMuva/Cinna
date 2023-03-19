@@ -16,8 +16,8 @@
   },
   "theme_color_map": {
     "KEYBOARD": [
-      "#BEEAFE",
-      "#BEEAFE"
+      "#F5D0D0",
+      "#F5D0D0"
     ],
     "BACKGROUND_PRIMARY": [
       "#E2F6FB",
@@ -36,8 +36,8 @@
       "#DDF0F7"
     ],
     "BACKGROUND_ACCENT": [
-      "#F5D0D0",
-      "#F5D0D0"
+      "#BEEAFE",
+      "#BEEAFE"
     ],
     "BACKGROUND_FLOATING": [
       "#DDF0F7",
