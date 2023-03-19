@@ -16,8 +16,8 @@
   },
   "theme_color_map": {
     "KEYBOARD": [
-      "#F5D0D0",
-      "#F5D0D0"
+      "#BEEAFE",
+      "#BEEAFE"
     ],
     "BACKGROUND_PRIMARY": [
       "#E2F6FB",
@@ -92,8 +92,8 @@
       "#BD8850"
     ],
     "TEXT_LINK": [
-      "#F5D0D0",
-      "#F5D0D0"
+      "#F6E1E8",
+      "#F6E1E8"
     ],
     "TEXT_MUTED": [
       "#BD8850",
@@ -116,7 +116,7 @@
     "PRIMARY_DARK_700": "#A7E1FC",
     "PRIMARY_DARK_800": "#A7E1FC",
     "BRAND_NEW": "#BD8850",
-    "WHITE": "#F5D0D0"
+    "WHITE": "#F6E1E8"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#FEFEFE"
