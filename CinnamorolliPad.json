@@ -92,8 +92,8 @@
       "#C29F70"
     ],
     "TEXT_LINK": [
-      "#E887AE",
-      "#E887AE"
+      "#66CDFD",
+      "#66CDFD"
     ],
     "TEXT_MUTED": [
       "#C29F70",
@@ -116,7 +116,7 @@
     "PRIMARY_DARK_700": "#A7E1FC",
     "PRIMARY_DARK_800": "#A7E1FC",
     "BRAND_NEW": "#C29F70",
-    "WHITE": "#96DDFD"
+    "WHITE": "#66CDFD"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#FEFEFE"
