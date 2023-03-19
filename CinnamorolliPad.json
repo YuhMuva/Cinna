@@ -1,0 +1,124 @@
+{
+  "name": "CinnamorolliPad",
+  "author": "YuhMuva#1799",
+  "version": "1",
+  "description": "A theme for iPad dedicated to Cinnamoroll!(And Femboys)",
+  "authors": [
+    {
+      "name": "YuhMuva",
+      "id": "359111312418275349"
+    }
+  ],
+  "background": {
+    "blur": "2",
+    "url": "https://wallpapercave.com/uwp/uwp2448654.jpeg",
+    "alpha": "0.69"
+  },
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#BEEAFE",
+      "#BEEAFE"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#E2F6FB",
+      "#E2F6FB"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#DDF0F7",
+      "#DDF0F7"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#DDF0F7",
+      "#DDF0F7"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#DDF0F7",
+      "#DDF0F7"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#BEEAFE",
+      "#BEEAFE"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#DDF0F7",
+      "#DDF0F7"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#DDF0F7",
+      "#DDF0F7"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#DDF0F7",
+      "#DDF0F7"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#FEFEFE",
+      "#FEFEFE"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#C4D7E5",
+      "#C4D7E5"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FEFEFE",
+      "#FEFEFE"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FEFEFE",
+      "#FEFEFE"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#C29F70",
+      "#C29F70"
+    ],
+    "HEADER_PRIMARY": [
+      "#C29F70",
+      "#C29F70"
+    ],
+    "HEADER_SECONDARY": [
+      "#C29F70",
+      "#C29F70"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#C29F70",
+      "#C29F70"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#F6DCE5",
+      "#F6DCE5"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#C29F70",
+      "#C29F70"
+    ],
+    "TEXT_LINK": [
+      "#E887AE",
+      "#E887AE"
+    ],
+    "TEXT_MUTED": [
+      "#C29F70",
+      "#C29F70"
+    ],
+    "TEXT_NORMAL": [
+      "#C29F70",
+      "#C29F70"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#C29F70",
+    "PRIMARY_DARK_100": "#C29F70",
+    "PRIMARY_DARK_300": "#C29F70",
+    "PRIMARY_DARK_360": "#C29F70",
+    "PRIMARY_DARK_400": "#C29F70",
+    "PRIMARY_DARK_500": "#FEFEFE",
+    "PRIMARY_DARK_600": "#A7E1FC",
+    "PRIMARY_DARK_630": "#A7E1FC",
+    "PRIMARY_DARK_700": "#A7E1FC",
+    "PRIMARY_DARK_800": "#A7E1FC",
+    "BRAND_NEW": "#C29F70",
+    "WHITE": "#96DDFD"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#FEFEFE"
+  }
+}
