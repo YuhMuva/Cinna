@@ -1,7 +1,7 @@
 {
   "name": "CinnamorolliPad",
   "author": "YuhMuva#1799",
-  "version": "1",
+  "version": "0",
   "description": "A theme for iPad dedicated to Cinnamoroll!(And Femboys)",
   "authors": [
     {
@@ -11,7 +11,7 @@
   ],
   "background": {
     "blur": "2",
-    "url": "https://wallpapercave.com/uwp/uwp2448654.jpeg",
+    "url": "https://wallpapercave.com/uwp/uwp2632755.jpeg",
     "alpha": "0.69"
   },
   "theme_color_map": {
